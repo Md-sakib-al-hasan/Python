@@ -1,0 +1,9 @@
+over_writing
+over_loading
+class_attribute+static_attribute
+staticmethord
+class_methord
+@=decoreted
+composition
+UML
+design patten

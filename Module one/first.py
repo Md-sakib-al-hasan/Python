@@ -1,0 +1,5 @@
+print("kopa python kopa")
+print("kopa python kopa2")
+print("kopa python kopa3")
+print("kopa python kopa4")
+print("kopa python kopa5")
